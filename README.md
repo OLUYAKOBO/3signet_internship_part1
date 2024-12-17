@@ -7,4 +7,4 @@
 
 *This is the link to the visualization dashboard: https://my-viz.streamlit.app/
 
-*This is the link to the Image classification application: https://cifarimageclassificationapp.streamlit.app/
+
